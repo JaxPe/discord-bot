@@ -23,7 +23,7 @@ Este repositório documenta minha prática com Node.js e o desenvolvimento de um
 - [ ] Testar interações com a API do Discord
 
 ## Autores
-<img loading="lazy" src="https://avatars.githubusercontent.com/u/91297706?v=4" width=115><br><sub>João Pedro B. Barbosa</sub>
+<a target="_blank" href="https://github.com/JaxPe"><img loading="lazy" src="https://avatars.githubusercontent.com/u/91297706?v=4" width=115><br><sub>João Pedro B. Barbosa</sub></a>
 
 
 ## Referências
